@@ -5,3 +5,6 @@ Sunucu SQL'nizin character kısmına joblimit Tablosu oluşturmayı unutmayını
 
 
 -Taha " ZhoNNz " 
+
+
+- utku#1111 Tarafından yapılmıştır
